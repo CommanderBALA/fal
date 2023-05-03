@@ -1,0 +1,60 @@
+* {
+    margin: auto;
+    padding: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-image: url(./back.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    padding: 80px;
+    letter-spacing: 15px;
+}
+
+.page {
+    background-color: rgba(173, 173, 173, 0.884);
+    height: 100vh;
+}
+
+.page p {
+    font-size: 25px;
+    text-align: center;
+    width: 600px;
+    font-weight: 600;
+}
+
+.page a {
+    color: rgb(10, 223, 10);
+    text-align: center;
+    display: block;
+    width: 130px;
+    margin: auto;
+    background: rgb(88, 33, 33);
+    text-decoration: none;
+    padding: 20px;
+    margin-top: 50px;
+    border-radius: 10px;
+    font-size: 26px;
+}
+
+img {
+    height: 200px;
+    display: block;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+.img {
+    position: relative;
+    margin-top: -20px;
+    width: 800px;
+}
